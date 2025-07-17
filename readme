@@ -1,5 +1,4 @@
-for completing this project i have run these cmd and in these comd I have to insgtall sentry flask also and at last i have to ru app.py and got  to the server "http://localhost:5000/err"  ..
-and also go "http://localhost:5000/ "
+I am completeing this project by running these below cmd whcih help you to install all the nessasary thing which is installed in your vs code for run.
 
 python -m venv venv
 
@@ -10,3 +9,7 @@ pip install "sentry-sdk[flask]"
 pip install -r requirements.txt
 
 python app.py
+
+ At last  I have to run "app.py"  then Go  to the server "http://localhost:5000/err"  ..
+and also go "http://localhost:5000/ "  
+then your code will run and show the suitable aoutput in  browser
