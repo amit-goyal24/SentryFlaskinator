@@ -1,0 +1,12 @@
+for completing this project i have run these cmd and in these comd I have to insgtall sentry flask also and at last i have to ru app.py and got  to the server "http://localhost:5000/err"  ..
+and also go "http://localhost:5000/ "
+
+python -m venv venv
+
+.\venv\Scripts\Activate.ps1
+
+pip install "sentry-sdk[flask]"
+
+pip install -r requirements.txt
+
+python app.py
